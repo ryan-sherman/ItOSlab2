@@ -6,4 +6,3 @@
 6.  We choose Apache!
 7.  The GPL license can be regarded as generally the best for the common good as it enforces free redistribution of software carrying it, requires documentation of any modifications and disclosure of the source, as well as notice of the GPL nature of the software.  LGPL is good for developers who need to reference libraries for any purpose, and who may want to maintain free access to libraries they write.  As Google's Android system demonstrates, Apache can be very good for companies as it prevents re-use of trademarks, thus reserving certain rights that allow profitability and patents while gaining many of the benefits of open source software (i.e. attracting developers).  BSD is extremely permissive, disclaiming all warrantees, only requiring the reproduction of the license and copyright.
 8.  The class groups presented and had similar choices and explanations as what I've described in 7.
-9.  
